@@ -1,3 +1,5 @@
+<img src="ss.png"></img>
+
 # Countdown Timer Web
 
 Countdown Timer sederhana berbasis HTML, CSS, dan JavaScript. Cocok digunakan untuk menghitung waktu menuju acara seperti tahun baru, launching, atau event kampus.
