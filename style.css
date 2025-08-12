@@ -13,6 +13,7 @@ h1 {
   margin-bottom: 20px;
 }
 
+/* selector id countdown */
 #countdown {
   font-size: 2rem;
   display: flex;
